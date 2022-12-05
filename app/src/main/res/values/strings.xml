@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="BotonSiguiente">Siguiente</string>
+    <string name="tv1">Primer activity</string>
+    <string name="BotonAnterior">Anterior</string>
+    <string name="tv2">Segundo activity</string>
+    <string name="btn_calcular">Calcular promedio</string>
+
+
+</resources>
